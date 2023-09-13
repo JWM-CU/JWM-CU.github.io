@@ -2,8 +2,8 @@
 title: Richard Feynman
 email: richard@university.edu
 description: Academic webpage of Dr. Richard Feynman
-baseurl: ""
-url: ""
+baseurl: https://jwm-cu.github.io/forked-
+url: '/forked-'
 
 # Google analytics ID: Uncomment and your own, if you like
 # google_analytics: XX
